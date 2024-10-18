@@ -6,6 +6,9 @@
 
 **PaddingLabel** is a customizable UILabel subclass for iOS, written in Objective-C, that allows you to add padding to your labels easily.
 
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/4be973f5-0a4e-4719-aefd-45b0dd8ebe19">
+
+
 ## Features
 
 - Add custom padding to UILabels.
@@ -46,3 +49,12 @@ bottomLabel.layer.masksToBounds = YES;
 
 // Add to view
 [self.view addSubview:bottomLabel];
+```
+
+## Author
+- [openapphub](https://github.com/openapphub)
+
+
+## Licenses
+
+All source code is licensed under the [MIT License](https://raw.githubusercontent.com/openapphub/PaddingLabel-OC/refs/heads/main/LICENSE).
